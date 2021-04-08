@@ -1,5 +1,3 @@
-This is the fifth assignment for UMN Data Analytics bootcamp. All work completed by Zoe Poeschl.
-
 # matplotlib-challenge
 
 ## Instructions
